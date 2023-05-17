@@ -1,0 +1,104 @@
+[
+   {
+      "@context":"https://schema.org",
+      "@type":"FAQPage",
+      "mainEntity":[
+         {
+            "@type":"Question",
+            "name":" Wann ist der Handel von Optionen interessant?  ",
+            "acceptedAnswer":{
+               "@type":"Answer",
+               "text":"Der Handel einer Option ist dann interessant, wenn der Käufer davon ausgeht, dass der Kurs vom Basiswert in die von ihm erwartete Richtung geht. Wenn der Käufer einer Call-Option beispielsweise erwartet, dass der Kurs einer Aktie steigt, kann er eine Call-Option kaufen. Steigt der Aktienkurs dann wie erwartet, darf er die Aktie für den festgelegten Ausübungspreis kaufen. Wenn der Käufer einer Put-Option erwartet, dass ein Aktienkurs fällt, kann er eine Put-Option kaufen. Wenn der Aktienkurs dann fällt, hat er das Recht die Aktie zum Ausübungspreis zu verkaufen. Der Verlust beschränkt sich für den Käufer einer Option immer auf die gezahlte Optionsprämie."
+            }
+         },
+         {
+            "@type":"Question",
+            "name":" Wie funktioniert der Handel mit Optionen? ",
+            "acceptedAnswer":{
+               "@type":"Answer",
+               "text":"Optionen werden an Terminbörsen wie der&nbsp;<a href=\"https:\/\/www.lynxbroker.de\/boerse\/boerse-kurse\/boerseninfo\/boersenplaetze\/eurex\/\">Eurex<\/a>&nbsp;in Deutschland und vor allem auch an amerikanischen Optionsbörsen wie der CME oder CBOE gehandelt. Um Optionen zu handeln, brauchen Sie einen&nbsp;<a href=\"https:\/\/www.lynxbroker.de\/online-broker\/optionen-broker\/\">Optionen-Broker<\/a>, der Ihnen den Zugang zu Derivatebörsen ermöglicht, was nicht bei jedem&nbsp;<a href=\"https:\/\/www.lynxbroker.de\/online-broker\/\">Online-Broker<\/a>&nbsp;der Fall ist. Zudem benötigen Sie die Termingeschäftsfähigkeit als Voraussetzung, Termingeschäfte durchführen zu dürfen. In der Regel erhalten Sie diese nach der Aufklärung über Risiken beim Handel mit Derivaten durch Ihren Broker."
+            }
+         },
+         {
+            "@type":"Question",
+            "name":" Wie funktionieren Call-Optionen? ",
+            "acceptedAnswer":{
+               "@type":"Answer",
+               "text":"Eine Call Option ist eine Kaufoption, die dem Käufer das Recht verleiht, einen Basiswert wie etwa eine Aktie, zu einem vorab definierten Preis (Ausübungspreis) am bzw. bis zum Verfallsdatum (Ablaufdatum) zu kaufen. Dafür zahlt der Käufer der Call Option dem Verkäufer eine Prämie (Optionsprämie). Der Verkäufer der Option hat beim Ausüben der Option die Pflicht, Aktien zum Ausübungspreis an den Käufer der Option zu verkaufen.&nbsp;"
+            }
+         },
+         {
+            "@type":"Question",
+            "name":" Mit Optionen Geld verdienen - Ist das möglich? ",
+            "acceptedAnswer":{
+               "@type":"Answer",
+               "text":"Ja, es ist möglich mit Optionen Geld zu verdienen, indem man zum Beispiel auf steigende oder fallende Aktienkurse spekuliert. Allerdings gibt es auch Risiken, wie den Verlust der Optionsprämie. Auch das Risikomanagement ist im Optionshandel äußerst wichtig. Man sollte ein Grundwissen aufbauen und z.B. die Basiskurse auf <a href=\"https:\/\/lynx-training.de\/\" target=\"_blank\" rel=\"noreferrer noopener\">https:\/\/lynx-training.de\/<\/a> nutzen. In unseren kostenlosen Online-Kursen über Optionen lernen Sie das Potenzial von Optionen kennen und wie Sie diese in verschiedenen Marktsituationen am besten einsetzen können.&nbsp;"
+            }
+         },
+         {
+            "@type":"Question",
+            "name":" Was bedeutet Strike bei Optionen? ",
+            "acceptedAnswer":{
+               "@type":"Answer",
+               "text":"Der Strike einer Option ist der Basispreis oder Ausübungsreis. Strike ist somit die Kurzform der englischen Bezeichnung Strike Price. Es handelt sich dabei um den zwischen Käufer und Verkäufer einer Option festgelegten Preis, zu dem der Basiswert, zum Beispiel <a href=\"https:\/\/www.lynxbroker.de\/boerse\/boerse-kurse\/aktien\/\" target=\"_blank\" rel=\"noreferrer noopener\">Aktien<\/a>, am Ausübungsdatum gekauft beziehungsweise verkauft werden kann.&nbsp;"
+            }
+         },
+         {
+            "@type":"Question",
+            "name":" Was bedeutet Delta bei Optionen? ",
+            "acceptedAnswer":{
+               "@type":"Answer",
+               "text":"Das Delta ist einer der sogenannten “Griechen” in der Optionstheorie und gibt an, um wie viel sich der Preis einer Option ändert, wenn sich der Preis des zugrundeliegenden Basiswertes um eine Einheit ändert. Wenn eine Aktienoption ein Delta von 0,5 besitzt, steigt ihr Wert um 50 Cent, wenn der Kurs der Aktie um 1 EUR steigt.&nbsp;"
+            }
+         },
+         {
+            "@type":"Question",
+            "name":" Was ist eine Put-Option? ",
+            "acceptedAnswer":{
+               "@type":"Answer",
+               "text":"Eine Put Option ist eine Verkaufsoption, die den Inhaber berechtigt, einen Basiswert wie etwa eine <a href=\"https:\/\/www.lynxbroker.de\/boerse\/boerse-kurse\/aktien\/\" target=\"_blank\" rel=\"noreferrer noopener\">Aktie<\/a>, zu einem vorab definierten Preis (Ausübungspreis) am bzw. bis zum Verfallsdatum (Ablaufdatum) zu verkaufen. Dafür zahlt der Käufer der Put-Option dem Verkäufer eine Prämie (Optionsprämie). Der Verkäufer hat beim Ausüben der Option die Pflicht, die Aktien zum Ausübungspreis vom Käufer der Put-Option zu kaufen.&nbsp;"
+            }
+         },
+         {
+            "@type":"Question",
+            "name":" Wann laufen Optionen aus?  ",
+            "acceptedAnswer":{
+               "@type":"Answer",
+               "text":"Optionen sind Termingeschäfte. Das bedeutet, dass der Vertragsschluss und die Vertragserfüllung zeitlich auseinanderfallen. Jede Option hat dabei ein festgelegtes Datum (und eine festgelegte Uhrzeit) bis wann sie gültig ist. Der letzte Tag, an welchem eine Option handelbar ist, wird als Verfallstermin bezeichnet. Bis zu diesem Zeitpunkt besteht die Möglichkeit des Kaufs oder Verkaufs der Option über die Terminbörse. Dies ist ebenfalls der Zeitpunkt bis zu dem Sie als Optionsinhaber eine Ausübung vornehmen können."
+            }
+         },
+         {
+            "@type":"Question",
+            "name":" Was ist der Preis einer Option?  ",
+            "acceptedAnswer":{
+               "@type":"Answer",
+               "text":"Der Preis einer Option ist der Preis, den der Käufer einer Option an deren Verkäufer (Stillhalter) zahlen muss. Er setzt sich aus dem inneren Wert einer Option und dem Zeitwert zusammen. Der innere Wert ergibt sich aus der Differenz zwischen dem Kurs des Basiswertes und dem Ausübungspreis der Option. Der Preis einer Option ist jedoch größer als der innere Wert, diese Differenz wird auch als Zeitwert bezeichnet.&nbsp;&nbsp;"
+            }
+         },
+         {
+            "@type":"Question",
+            "name":" Was ist der Basiswert einer Option? ",
+            "acceptedAnswer":{
+               "@type":"Answer",
+               "text":"Der Basiswert (engl.&nbsp;<em>Underlying<\/em>) ist das Finanzinstrument, das einer Option zugrunde liegt. Für den&nbsp;<a href=\"https:\/\/www.lynxbroker.de\/online-broker\/optionen-broker\/\">Handel von Optionen<\/a>&nbsp;stehen als Basiswerte beispielsweise&nbsp;<a href=\"https:\/\/www.lynxbroker.de\/boerse\/boerse-kurse\/aktien\/\">Aktien<\/a>,&nbsp;<a href=\"https:\/\/www.lynxbroker.de\/boerse\/boerse-kurse\/etf\/\">ETFs<\/a>,&nbsp;<a href=\"https:\/\/www.lynxbroker.de\/boerse\/boerse-kurse\/index\/\">Indizes<\/a>,&nbsp;<a href=\"https:\/\/www.lynxbroker.de\/boerse\/boerse-kurse\/futures\/\">Futures<\/a>,&nbsp;<a href=\"https:\/\/www.lynxbroker.de\/boerse\/boerse-kurse\/devisen\/\">Währungen<\/a>&nbsp;oder&nbsp;<a href=\"https:\/\/www.lynxbroker.de\/boerse\/boerse-kurse\/rohstoffe\/\">Rohstoffe<\/a>&nbsp;zur Verfügung."
+            }
+         },
+         {
+            "@type":"Question",
+            "name":" Wie handelt man Optionen auf europäische Basiswerte? ",
+            "acceptedAnswer":{
+               "@type":"Answer",
+               "text":"Erfahren Sie, was eine europäische Option ist, in unserem Börsen-Lexikon:&nbsp;<a href=\"https:\/\/www.lynxbroker.de\/boerse\/boerse-kurse\/boerseninfo\/boersenlexikon\/europaeische-option\/\">Europäische Option Definition<\/a>"
+            }
+         },
+         {
+            "@type":"Question",
+            "name":" Wie handelt man Optionen auf US-Basiswerte? ",
+            "acceptedAnswer":{
+               "@type":"Answer",
+               "text":"Was US-amerikanische Optionen sind und wie man sie handelt, erfahren Sie in unserem Artikel <a href=\"https:\/\/www.lynxbroker.de\/boerse\/boerse-kurse\/optionen\/optionshandel\/us-optionen-handeln-darauf-kommt-es-an\/\" target=\"_blank\" rel=\"noreferrer noopener\">US-Optionen handeln – darauf kommt es an<\/a>&nbsp;"
+            }
+         }
+      ]
+   }
+]
