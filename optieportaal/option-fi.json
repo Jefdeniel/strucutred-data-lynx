@@ -1,0 +1,17 @@
+// only change the @type and name of the question and answer
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question", // don't change this
+        "name": " define your question here  ",
+        "acceptedAnswer": {
+          "@type": "Answer", // don't change this
+          "text": "the answer of your questions comes here."
+        }
+      }
+    ]
+  }
+]

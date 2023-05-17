@@ -1,0 +1,17 @@
+// ne modifie que le @type et le nom de la question et de la réponse
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question", // ne pas changer ceci
+        "name": " define your question here  ",
+        "acceptedAnswer": {
+          "@type": "Answer", // ne pas changer ceci
+          "text": "the answer of your questions comes here."
+        }
+      }
+    ]
+  }
+]
